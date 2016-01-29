@@ -1,0 +1,20 @@
+{
+  "name": "ExtractorOCR",
+  "version": "0.0.0",
+  "description": "Exploring alternatives to pure human based Extractor project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OCR"
+  ],
+  "author": "Tapan Shah",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "tmp": "0.0.28",
+    "fs": "0.0.2",
+    "gm": "~1.21.1",
+    "node-tesseract": "~0.2.7"
+  }
+}
